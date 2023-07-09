@@ -68,6 +68,3 @@ k) Warnings
 
 
 
-### Lead Scoring Model Project:
-
-You can also check out my [lead scoring classification prediction model](https://github.com/mukulsinghal001/lead-scoring-model-python) related to marketing analytics as well.
